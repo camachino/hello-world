@@ -18,7 +18,7 @@ git push
 git checkout -b feature/1
 git checkout main
 ```
-##Aquí se pueden ver los mensajes del termianl
+##Aquí se pueden ver los mensajes de retorno tras haberlos probado en la terminal del gitpod
 
 ##gitpod /workspace/hello-world $ git clone https://github.com/gitt-3-pat/hello-world
 Cloning into 'hello-world'...
@@ -76,3 +76,9 @@ Switched to branch 'main'
 ## Referencias
 
 - https://git-scm.com/
+ 
+ 
+ ![Captura de pantalla 2022-01-30 183628](https://user-images.githubusercontent.com/46677129/151713489-e76c0639-9799-4df1-abfa-39d5237f8931.png)
+
+ 
+ 
