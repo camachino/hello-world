@@ -80,5 +80,6 @@ Switched to branch 'main'
  
  ![Captura de pantalla 2022-01-30 183628](https://user-images.githubusercontent.com/46677129/151713489-e76c0639-9799-4df1-abfa-39d5237f8931.png)
 
+Y aquí se puede ver las descargas que se han realizado con el fin de establecer el entorno de trabajo para el resto de la asignatura.
  
  
