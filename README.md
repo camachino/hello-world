@@ -9,6 +9,13 @@ Un repositorio para empezar a usar Github y Github Actions con Java
 ##Desde aquí se puede acceder a mi gitpod desde donde se han probado los siguientes comandos:
 Me gustaría destacar la creacion de los tokens para el acceso y la gestión necesaria de permisos para poder acceder y enlazar al proyecto
 
+Clone nos permite clonar nuestro repository a nuestro entorno
+status nos indica el estado de nuestra conexión con Github a través de Git
+Add nos añade elementos a nuestro repositorio
+commit nos permite mandar nuevas interacciones, en este caso se ha usado para mandar un mensaje
+push envía los cambios y actualiza nuestro entorno de desarrollo con Github
+y checkout nos permite intercambiar entre las diversas ramas de nuestro repositorio
+
 ## Comandos git básicos utilizados en la práctica
 
 ```
