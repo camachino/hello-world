@@ -21,9 +21,9 @@ git push
 git checkout -b feature/1
 git checkout main
 ```
-##Aquí se pueden ver los mensajes de retorno tras haberlos probado en la terminal del gitpod
+## Aquí se pueden ver los mensajes de retorno tras haberlos probado en la terminal del gitpod
 
-##gitpod /workspace/hello-world $ git clone https://github.com/gitt-3-pat/hello-world
+## gitpod /workspace/hello-world $ git clone https://github.com/gitt-3-pat/hello-world
 Cloning into 'hello-world'...
 remote: Enumerating objects: 38, done.
 remote: Counting objects: 100% (38/38), done.
@@ -32,7 +32,7 @@ remote: Total 38 (delta 1), reused 31 (delta 0), pack-reused 0
 Receiving objects: 100% (38/38), 58.97 KiB | 6.55 MiB/s, done.
 Resolving deltas: 100% (1/1), done.
 
-gitpod /workspace/hello-world $ git add .
+## gitpod /workspace/hello-world $ git add .
 
 warning: adding embedded git repository: hello-world
 hint: You've added another git repository inside your current repository.
@@ -49,14 +49,14 @@ hint:   git rm --cached hello-world
 hint: 
 hint: See "git help submodule" for more information.
  
-##gitpod /workspace/hello-world $ git commit -m "Soy Ignacio"
+## gitpod /workspace/hello-world $ git commit -m "Soy Ignacio"
  
 [main 0a1a48a] Soy Ignacio
  1 file changed, 1 insertion(+)
  create mode 160000 hello-world
  
  
-##gitpod /workspace/hello-world $ git push
+## gitpod /workspace/hello-world $ git push
  
  
 Enumerating objects: 3, done.
@@ -70,7 +70,7 @@ To https://github.com/camachino/hello-world.git
    48fe276..0a1a48a  main -> main
 
  
- ##gitpod /workspace/hello-world $ git checkout -b feature/1
+ ## gitpod /workspace/hello-world $ git checkout -b feature/1
  
  
 Switched to a new branch 'feature/1'
