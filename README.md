@@ -4,9 +4,12 @@ Un repositorio para empezar a usar Github y Github Actions con Java
 
 ## ¿Como probar en el cloud?
 
-[![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitt-3-pat/hello-world)
+[![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/camachino/hello-world/)
 
-## Comandos git básicos
+##Desde aquí se puede acceder a mi gitpod desde donde se han probado los siguientes comandos:
+Me gustaría destacar la creacion de los tokens para el acceso y la gestión necesaria de permisos para poder acceder y enlazar al proyecto
+
+## Comandos git básicos utilizados en la práctica
 
 ```
 git clone https://github.com/gitt-3-pat/hello-world
