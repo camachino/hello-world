@@ -2,19 +2,22 @@
 
 Un repositorio para empezar a usar Github y Github Actions con Java
 
-## ¿Como probar en el cloud?
-
 [![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/camachino/hello-world/)
 
-##Desde aquí se puede acceder a mi gitpod desde donde se han probado los siguientes comandos:
+## Desde aquí se puede acceder a mi gitpod desde donde se han probado los siguientes comandos:
 Me gustaría destacar la creacion de los tokens para el acceso y la gestión necesaria de permisos para poder acceder y enlazar al proyecto
 
 Clone nos permite clonar nuestro repository a nuestro entorno
+
 status nos indica el estado de nuestra conexión con Github a través de Git
+
 Add nos añade elementos a nuestro repositorio
+
 commit nos permite mandar nuevas interacciones, en este caso se ha usado para mandar un mensaje
+
 push envía los cambios y actualiza nuestro entorno de desarrollo con Github
-y checkout nos permite intercambiar entre las diversas ramas de nuestro repositorio
+
+checkout nos permite intercambiar entre las diversas ramas de nuestro repositorio
 
 ## Comandos git básicos utilizados en la práctica
 
@@ -87,6 +90,7 @@ Switched to branch 'main'
 
 - https://git-scm.com/
  
+## Añadidos a la práctica
  
  ![Captura de pantalla 2022-01-30 183628](https://user-images.githubusercontent.com/46677129/151713489-e76c0639-9799-4df1-abfa-39d5237f8931.png)
 
