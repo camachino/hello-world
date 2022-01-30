@@ -99,5 +99,10 @@ Y aquí se puede ver las descargas que se han realizado con el fin de establecer
 Como añadido se han instalado varios plugins, entre ellos el de git en IntelIJ para la correcta integración del entorno de trabajo para futuras prácticas
  
  ![Captura de pantalla 2022-01-30 203953](https://user-images.githubusercontent.com/46677129/151714861-3f415868-811f-4b06-b8ec-29442419a403.png)
+ 
+ Por último aquí incluyo tanto el vs code con los proyectos clonados como el IntelIJ
+ ![Captura de pantalla 2022-01-30 210416](https://user-images.githubusercontent.com/46677129/151715691-853937f4-78cb-4fbd-8185-fab151be0152.png)
+
+ 
 
  
